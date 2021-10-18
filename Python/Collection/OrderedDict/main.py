@@ -1,6 +1,6 @@
 # https://www.hackerrank.com/challenges/py-collections-ordereddict/problem
 
-from collections import*
+from collections import *
 N = int(input())
 d = OrderedDict()
 for i in range(N):
